@@ -34,7 +34,7 @@ The paper also explores Explainable AI (XAI) and Uncertainty Quantification (UQ)
 ![SHAP Waterfall plot](https://github.com/javierdelser/QoE_XAI_UQ/blob/main/img/SHAP_edRVFL_waterfalls.png)
 
 ## Citation
-If you use this code or dataset in your research, please cite the paper as follows:
+If you use this code in your research, please cite the paper as follows:
 ```
 @article{bilbao2025benchmarking,
   title={Benchmarking Machine Learning Models for QoE Estimation in Video Streaming: Accuracy, Efficiency, Confidence and Explainability},
