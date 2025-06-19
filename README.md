@@ -25,6 +25,7 @@ The paper also explores Explainable AI (XAI) and Uncertainty Quantification (UQ)
 
 ## Results
 
+!(/imgs/MAE_SMAPE.png)
 
 ## Citation
 If you use this code or dataset in your research, please cite the paper as follows:
