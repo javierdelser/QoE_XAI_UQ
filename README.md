@@ -27,6 +27,12 @@ The paper also explores Explainable AI (XAI) and Uncertainty Quantification (UQ)
 
 ![MAE and SMAPE](https://github.com/javierdelser/QoE_XAI_UQ/blob/main/img/MAE_SMAPE.png)
 
+![Training and inference times](https://github.com/javierdelser/QoE_XAI_UQ/blob/main/img/training_inference_times.png)
+
+![Confidence estimation via CP](https://github.com/javierdelser/QoE_XAI_UQ/blob/main/img/confidence_edrvfl.png)
+
+![SHAP Waterfall plot](https://github.com/javierdelser/QoE_XAI_UQ/blob/main/img/SHAP_edRVFL_waterfalls.png)
+
 ## Citation
 If you use this code or dataset in your research, please cite the paper as follows:
 ```
