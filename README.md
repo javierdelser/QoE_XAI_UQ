@@ -25,10 +25,11 @@ The paper also explores Explainable AI (XAI) and Uncertainty Quantification (UQ)
 
 ## Citation
 If you use this code or dataset in your research, please cite the paper as follows:
-
+```
 @article{bilbao2025benchmarking,
   title={Benchmarking Machine Learning Models for QoE Estimation in Video Streaming: Accuracy, Efficiency, Confidence and Explainability},
   author={Miren Nekane Bilbao, Mikel Getino-Petit, Javier Del Ser},
   journal={under review for its presentation in the 12th International Conference of Networks, Games, Control and Optimization (NETGCOOP)},
   year={2025}
 }
+```
