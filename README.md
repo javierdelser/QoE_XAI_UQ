@@ -5,7 +5,7 @@
 This repository contains the code for the paper 'Benchmarking Machine Learning Models for QoE Estimation in Video Streaming'. The paper provides a comprehensive evaluation of various machine learning models for estimating Quality of Experience (QoE) in video streaming scenarios.
 
 ## Dataset
-The dataset used in this project is SNSincludes various features related to video streaming and user experience. The dataset is available in the `dataset` folder.
+The dataset used in this project is SNESet, which includes various features related to video streaming and user experience. The dataset is available at [SNESet](https://github.com/YananLi18/SNESet).
 
 ## Machine Learning Models
 The following machine learning models were evaluated in the paper:
